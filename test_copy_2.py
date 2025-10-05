@@ -6,7 +6,7 @@ import threading
 import tkinter as tk
 from tkinter import ttk, messagebox
 from pydub import AudioSegment
-import whisper
+# import whisper
 import pyautogui
 import keyboard
 import time
@@ -60,7 +60,7 @@ class SpeechRecognitionApp:
             
             print(f"Using device: {device}")
             # Choose a Whisper model - options: tiny, base, small, medium, large
-            self.whisper_model = whisper.load_model("base", download_root=model_path, device=device)
+            # self.whisper_model = whisper.load_model("base", download_root=model_path, device=device)
             
             # Save device info for later
             self.device_info = f"Using {device.upper()} for inference with fp32 precision"
