@@ -4,7 +4,10 @@
 
 ## Prerequisites
 
-You need to have python 3.12 installed
+You need the following.
+
+Python3.12
+Cuda 12.9
 
 
 
