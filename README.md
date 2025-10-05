@@ -2,13 +2,13 @@
 
 
 
-# Prerequisites
+## Prerequisites
 
 You need to have python 3.12 installed
 
 
 
-# How to install.
+## How to install.
 
 First run "install_requirements.bat" than wait completely for installer to complete and the terminal to close.
 
