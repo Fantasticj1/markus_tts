@@ -1,4 +1,6 @@
 pyaudio
 pydub
 torch
-
+pyautogui
+keyboard
+RealtimeSTT
