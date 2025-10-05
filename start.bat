@@ -1,2 +1,2 @@
-call venv\Scripts\activate.bat
-python test_copy_2.py
+@echo off
+venv\Scripts\python.exe test_copy_2.py
